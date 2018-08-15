@@ -5,7 +5,7 @@
 This project is about constructing part of a safety case for lane assistance system. Analyzing and documenting system safety is critical for autonomous vehicle development. Safety plan/assessment begins with hazard analysis and risk assessment and then creating documents for functional safety, technical safety, hardware and software safety requirements. 
 
 
-### Description of Repo Files
+### Description of 5 stages of functional safety
 
 The entire process of developing a safety concept for a safety critical lane assistance system involves creating documents for:
 
